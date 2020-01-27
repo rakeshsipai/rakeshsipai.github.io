@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^/(.*) /vue-starter-admin-panel-demo/$1
